@@ -1,0 +1,43 @@
+.welcomeSection {
+    height:85vh;
+    background-color: white;
+    margin-top:50px;
+    text-align: center;
+    padding-top:15vh;
+}
+
+.navBarRight {
+  height:6vh;
+  top:0;
+  background-color: black;
+  color: white;
+  padding-right: 20px;
+  padding-top: 5px;
+  font-size: 2.5vw;
+  text-align: right;
+  position: fixed;
+  margin-left:40%;
+  width:59%;
+}
+
+.navBarLeft{
+  height:6vh;
+  top:0;
+  left:0;
+  background-color: black;
+  color: white;
+  padding-left: 15px;
+  padding-top: 5px;
+  font-size: 200%;
+  text-align: left;
+  position: fixed;
+  width:40%;
+}
+
+html {
+  background-color: lavenderblush;
+}
+
+a {
+  color: rebeccapurple;
+}
